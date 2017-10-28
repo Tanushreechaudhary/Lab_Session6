@@ -26,4 +26,5 @@ The statistics compare students graduating from three universities and clearly, 
 This Graduation Rate acts as a measure for accountability and transparency. Low GR can imply that students are not getting the academic support they need to succeed, that they are disappointed by the faculty or staff, or that they find life at the school unaffordable. 
 And that may give pause to a prospective student. Extended enrollment is costly, so the best course is to finish on time.
 
-### Here is the tableau link: https://public.tableau.com/profile/tanushree3514#!/vizhome/WhyMSISatSCU/WHYSCU?publish=yes
+### Here is the tableau link: https://public.tableau.com/profile/tanushree3514#!/vizhome/WhyhirestudentsstudyingatSCU/WHYSCU
+
