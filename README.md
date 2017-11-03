@@ -20,7 +20,7 @@ Also, for the Major MIS, SCU Alumni is earning more, which clearly shows why MSI
 In choosing a university to hire students, it is important to find a good fit – students with good academic background. The metrics shows us the percentage of students that fall under a GPA Range of 3.75 or higher. We can clearly see that 43% of students at SCU have GPA 3.75 or Higher, while at SJSU and University of San Francisco this percentage is 20% and 40% respectively. 
 The GPA Breakdown statistics shows that at SCU, there is a competitive environment which motivates students to perform well and shine! 
 
-## Metrics 3:  SCU students are good with completing their projects, even if its the course.
+### Metrics 3:  SCU students are good with completing their projects, even if its the course.
 
 The statistics compare students graduating from three universities and clearly, students at SCU graduate more, implying that they take their project seriously even if its their education and graduate on time. Graduation Rate tells about the time in which a student enters and completes a degree. So, for SCU, 77%(out of 100%) enrolled students complete their degrees in 4 years. While this percentage is very low for San Jose State University.
 This Graduation Rate acts as a measure for accountability and transparency. Low GR can imply that students are not getting the academic support they need to succeed, that they are disappointed by the faculty or staff, or that they find life at the school unaffordable. 
